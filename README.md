@@ -11,7 +11,7 @@ Landing page dibuat dengan React 19, Vite, dan Tailwind CSS v4.
 
 ```bash
 # 1. Clone repository
-git clone <URL-REPOSITORY> landing-page-77c
+git clone https://github.com/almaas-izdihar/landing-page-77c.git
 
 # 2. Masuk ke folder project
 cd landing-page-77c
