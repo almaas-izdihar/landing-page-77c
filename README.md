@@ -2,6 +2,9 @@
 
 Landing page dibuat dengan React 19, Vite, dan Tailwind CSS v4.
 
+<img width="2376" height="1434" alt="image" src="https://github.com/user-attachments/assets/846722a6-293b-4981-ba54-ede81ac357a2" />
+
+
 ## Prasyarat
 
 - [Node.js](https://nodejs.org) v20 atau lebih baru (dikembangkan dengan v24)
